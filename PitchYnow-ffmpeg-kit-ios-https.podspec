@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
   s.name             = 'PitchYnow-ffmpeg-kit-ios-https'
   s.version          = '6.0.2'
   s.summary          = 'FFmpeg iOS Binaries'
-  s.homepage         = 'https://github.com/PitchYnow/ffmpeg'
+  s.homepage         = 'https://github.com/PitchYnow/ffmpeg-lib'
   s.license          = { :type => "LGPL-3.0" }
   s.authors          = 'shaquillehinds'
   s.platform         = :ios, '12.1'
