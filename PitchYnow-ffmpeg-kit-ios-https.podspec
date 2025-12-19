@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name             = 'ffmpeg-kit-ios-https'
+  s.name             = 'PitchYnow-ffmpeg-kit-ios-https'
   s.version          = '6.0.2'
   s.summary          = 'FFmpeg iOS Binaries'
   s.homepage         = 'https://github.com/PitchYnow/ffmpeg-lib'
